@@ -1,0 +1,10 @@
+.DS_Store
+bin/
+obj/
+.env
+*.user
+*.suo
+*.vscode/
+*.log
+*.sqlite
+*.sqlite3
