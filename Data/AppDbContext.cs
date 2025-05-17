@@ -15,7 +15,7 @@ namespace InsurancePolicies.Data
             }
 
             public DbSet<InsurancePolicy> Policy { get; set; }
-            //public DbSet<CartItem> Cartitem { get; set; }
+            
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
