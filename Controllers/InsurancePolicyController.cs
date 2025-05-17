@@ -23,14 +23,14 @@ namespace InsurancePolicies.Controllers
             [HttpGet]
             public async Task<ActionResult<IEnumerable<InsurancePolicy>>> GetInsurancePolicies()
             {
-                return await _context.Policies.ToListAsync();
+                return await _context.Policy.ToListAsync();
             }
 
             // GET: api/InsurancePolicies/5
             [HttpGet("{id}")]
             public async Task<ActionResult<InsurancePolicy>> GetInsurancePolicy(int id)
             {
-                var policy = await _context.Policies.FindAsync(id);
+                var policy = await _context.Policy.FindAsync(id);
 
                 if (policy == null)
                 {
@@ -49,7 +49,7 @@ namespace InsurancePolicies.Controllers
                     return BadRequest("Invalid policy data.");
                 }
 
-                _context.Policies.Add(policy);
+                _context.Policy.Add(policy);
                 await _context.SaveChangesAsync();
 
                 return CreatedAtAction(nameof(GetInsurancePolicy), new { id = policy.Id }, policy);
@@ -72,7 +72,7 @@ namespace InsurancePolicies.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!_context.Policies.Any(e => e.Id == id))
+                    if (!_context.Policy.Any(e => e.Id == id))
                     {
                         return NotFound();
                     }
@@ -86,13 +86,13 @@ namespace InsurancePolicies.Controllers
             [HttpDelete("{id}")]
             public async Task<IActionResult> DeleteInsurancePolicy(int id)
             {
-                var policy = await _context.Policies.FindAsync(id);
+                var policy = await _context.Policy.FindAsync(id);
                 if (policy == null)
                 {
                     return NotFound();
                 }
 
-                _context.Policies.Remove(policy);
+                _context.Policy.Remove(policy);
                 await _context.SaveChangesAsync();
 
                 return NoContent();

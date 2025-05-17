@@ -17,8 +17,23 @@ namespace InsurancePolicies
                  // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(policy =>
+                {
+                    policy
+                        .WithOrigins("http://localhost:4200") // Angular dev server
+                        .AllowAnyHeader()
+                        .AllowAnyMethod()
+                        .AllowCredentials();
+                });
+            });
 
-            var app = builder.Build();
+           
+            var app = builder.Build();  // this piece if code   creates the Host ...
+            // now  you might  ask yourself what the host does 
+              // 1. it encapsulates  ....  dependacy injections, logging, midlewares and configurations ...
+              // types of host in asp dotnet .... minimal host, generic  host, web host.
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -26,9 +41,11 @@ namespace InsurancePolicies
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+           
+            app.UseCors();
             app.UseHttpsRedirection();
-                app.UseRouting();
+            app.UseCors();
+            app.UseRouting();
             app.UseAuthorization();
             app.MapControllers();
 
@@ -37,7 +54,7 @@ namespace InsurancePolicies
 
             app.MapControllers();
 
-            app.Run();
+            app.Run();   
         }
     }
 }
