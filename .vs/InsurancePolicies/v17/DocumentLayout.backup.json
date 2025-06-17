@@ -7,40 +7,44 @@
       "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\controllers\\insurancepolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:controllers\\insurancepolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\insurancepolicies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:insurancepolicies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\migrations\\20250501214649_initialinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:migrations\\20250501214649_initialinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\insurancepolicies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:insurancepolicies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|c:\\users\\admin\\source\\repos\\insurancepolicies\\migrations\\20250501214649_initialinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E638BE-3A7B-42E9-9B13-734557CA3738}|InsurancePolicies.csproj|solutionrelative:migrations\\20250501214649_initialinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -65,33 +69,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-17T06:16:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InsurancePolicyController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Controllers\\InsurancePolicyController.cs",
               "RelativeDocumentMoniker": "Controllers\\InsurancePolicyController.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Controllers\\InsurancePolicyController.cs",
               "RelativeToolTip": "Controllers\\InsurancePolicyController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwBEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T14:22:28.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T14:18:20.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "InsurancePolicy.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Models\\InsurancePolicy.cs",
               "RelativeDocumentMoniker": "Models\\InsurancePolicy.cs",
@@ -104,33 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InsurancePolicies.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\InsurancePolicies.csproj",
-              "RelativeDocumentMoniker": "InsurancePolicies.csproj",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\InsurancePolicies.csproj",
-              "RelativeToolTip": "InsurancePolicies.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-12T13:49:48.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T13:49:11.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "20250501214649_InitialInsurancePolicies.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Migrations\\20250501214649_InitialInsurancePolicies.cs",
               "RelativeDocumentMoniker": "Migrations\\20250501214649_InitialInsurancePolicies.cs",
@@ -138,8 +142,7 @@
               "RelativeToolTip": "Migrations\\20250501214649_InitialInsurancePolicies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:29:52.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T22:29:52.61Z"
             },
             {
               "$type": "Document",
@@ -149,7 +152,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-01-17T14:19:30.621Z",
               "EditorCaption": ""
@@ -162,14 +165,14 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-17T14:13:22.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -182,19 +185,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T14:52:55.845Z"
+              "WhenOpened": "2025-01-14T14:52:55.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "InsurancePolicies.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\InsurancePolicies.csproj",
+              "RelativeDocumentMoniker": "InsurancePolicies.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\InsurancePolicies\\InsurancePolicies.csproj",
+              "RelativeToolTip": "InsurancePolicies.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T13:49:48.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",

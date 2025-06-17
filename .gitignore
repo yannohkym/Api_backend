@@ -1,11 +1,74 @@
-.DS_Store
-.vs
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+.vs/
 bin/
 obj/
-.env
+out/
+
+# User-specific files
 *.user
 *.suo
-*.vscode/
+*.userosscache
+*.sln.docstates
+
+# Rider settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core secrets
+**/secrets.json
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Logs
 *.log
-*.sqlite
-*.sqlite3
+
+# .NET Core specific
+project.assets.json
+project.nuget.cache
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj.user
+
+# Package outputs
+*.nupkg
+*.snupkg
+
+# Distribution
+publish/
+wwwroot/lib/
+node_modules/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Coverage results
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+*.testresults
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+.DS_Store
+Thumbs.db
